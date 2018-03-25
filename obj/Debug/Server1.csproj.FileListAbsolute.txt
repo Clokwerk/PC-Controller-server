@@ -1,0 +1,16 @@
+C:\Users\Lenovo\documents\visual studio 2017\Projects\Server1\Server1\bin\Debug\Server1.exe.config
+C:\Users\Lenovo\documents\visual studio 2017\Projects\Server1\Server1\bin\Debug\Server1.exe
+C:\Users\Lenovo\documents\visual studio 2017\Projects\Server1\Server1\bin\Debug\Server1.pdb
+C:\Users\Lenovo\documents\visual studio 2017\Projects\Server1\Server1\obj\Debug\Server1.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\documents\visual studio 2017\Projects\Server1\Server1\obj\Debug\Server1.Form1.resources
+C:\Users\Lenovo\documents\visual studio 2017\Projects\Server1\Server1\obj\Debug\Server1.Properties.Resources.resources
+C:\Users\Lenovo\documents\visual studio 2017\Projects\Server1\Server1\obj\Debug\Server1.csproj.GenerateResource.Cache
+C:\Users\Lenovo\documents\visual studio 2017\Projects\Server1\Server1\obj\Debug\Server1.exe
+C:\Users\Lenovo\documents\visual studio 2017\Projects\Server1\Server1\obj\Debug\Server1.pdb
+C:\Users\Lenovo\documents\visual studio 2017\Projects\Server1\Server1\obj\Debug\Server1.Form2.resources
+C:\Users\Lenovo\documents\visual studio 2017\Projects\Server1\Server1\obj\Debug\Server1.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\documents\visual studio 2017\Projects\Server1\Server1\bin\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\documents\visual studio 2017\Projects\Server1\Server1\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\documents\visual studio 2017\Projects\Server1\Server1\obj\Debug\Interop.WMPLib.dll
+C:\Users\Lenovo\documents\visual studio 2017\Projects\Server1\Server1\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Lenovo\documents\visual studio 2017\Projects\Server1\Server1\obj\Debug\Server1.csproj.ResolveComReference.cache

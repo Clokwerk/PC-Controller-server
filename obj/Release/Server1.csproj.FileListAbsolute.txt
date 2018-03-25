@@ -1,0 +1,9 @@
+C:\Users\Lenovo\documents\visual studio 2017\Projects\Server1\Server1\bin\Release\Server1.exe.config
+C:\Users\Lenovo\documents\visual studio 2017\Projects\Server1\Server1\bin\Release\Server1.exe
+C:\Users\Lenovo\documents\visual studio 2017\Projects\Server1\Server1\bin\Release\Server1.pdb
+C:\Users\Lenovo\documents\visual studio 2017\Projects\Server1\Server1\obj\Release\Server1.csprojResolveAssemblyReference.cache
+C:\Users\Lenovo\documents\visual studio 2017\Projects\Server1\Server1\obj\Release\Server1.Form1.resources
+C:\Users\Lenovo\documents\visual studio 2017\Projects\Server1\Server1\obj\Release\Server1.Properties.Resources.resources
+C:\Users\Lenovo\documents\visual studio 2017\Projects\Server1\Server1\obj\Release\Server1.csproj.GenerateResource.Cache
+C:\Users\Lenovo\documents\visual studio 2017\Projects\Server1\Server1\obj\Release\Server1.exe
+C:\Users\Lenovo\documents\visual studio 2017\Projects\Server1\Server1\obj\Release\Server1.pdb
